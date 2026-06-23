@@ -2,7 +2,7 @@
 variable "my_public_ip" {
   description = "Tutaj jest adres maszyny z której bede sie laczył z maszynami wirt"
   type        = string
-  default     = "188.47.103.225/32"
+  default     = "188.47.104.29/32"
 }
 
 variable "front_admin_username" {
